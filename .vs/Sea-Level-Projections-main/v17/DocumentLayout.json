@@ -51,8 +51,7 @@
               "ViewState": "AgIAADkAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T10:39:48.453Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Assets\\Scripts\\CityLocator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T14:47:07.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T14:47:07.854Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Assets\\Scripts\\LocomotionModeSwitcher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T14:41:20.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T14:41:20.716Z"
             },
             {
               "$type": "Document",
@@ -115,8 +112,7 @@
               "RelativeToolTip": "Assets\\Scripts\\CityMover.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T12:09:17.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T12:09:17.923Z"
             },
             {
               "$type": "Document",
@@ -128,8 +124,7 @@
               "RelativeToolTip": "Assets\\Scripts\\SeaLevelDataManager.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T11:35:43.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T11:35:43.319Z"
             }
           ]
         }

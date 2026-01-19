@@ -164,6 +164,7 @@ public class CityMenuController : MonoBehaviour
 
     private struct Data
     {
+        public string country;
         public double lat;
         public double lon;
         public double sea;
@@ -183,7 +184,8 @@ public class CityMenuController : MonoBehaviour
     // ---------------- CSV ----------------
     private void LoadCityCSV()
     {
-        string path = Path.Combine(Application.streamingAssetsPath, "sea_level_change_median_values.csv");
+        // string path = Path.Combine(Application.streamingAssetsPath, "sea_level_change_median_values.csv");
+        string path = Path.Combine(Application.streamingAssetsPath, "final_filtered_median_data.csv");
         if (!File.Exists(path))
         {
             Debug.LogError("CSV not found: " + path);
@@ -197,16 +199,17 @@ public class CityMenuController : MonoBehaviour
             var cols = line.Split(',');
 
             string name = cols[0].Trim();
-            double lat = double.Parse(cols[1]);
-            double lon = double.Parse(cols[2]);
-            int year = int.Parse(cols[3]);
-            double seaMM = double.Parse(cols[4]);
+            string country = cols[1];
+            double lat = double.Parse(cols[2]);
+            double lon = double.Parse(cols[3]);
+            int year = int.Parse(cols[4]);
+            double seaMM = double.Parse(cols[5]);
             double seaMeters = seaMM / 1000.0;
 
             if (!db.ContainsKey(name))
                 db[name] = new Dictionary<int, Data>();
 
-            db[name][year] = new Data { lat = lat, lon = lon, sea = seaMeters };
+            db[name][year] = new Data { country = country, lat = lat, lon = lon, sea = seaMeters };
         }
 
         Debug.Log($"Loaded {db.Count} cities.");
@@ -217,7 +220,9 @@ public class CityMenuController : MonoBehaviour
     {
         var cityNames = db.Keys.ToList();
         cityDropdown.ClearOptions();
-        cityDropdown.AddOptions(cityNames);
+        // cityDropdown.AddOptions(cityNames);
+        var cityOptions = cityNames.Select(name => name + " (" + db[name].First().Value.country+ ")").ToList();
+        cityDropdown.AddOptions(cityOptions);
     }
 
     private void OnYearChanged(float value)
@@ -229,7 +234,8 @@ public class CityMenuController : MonoBehaviour
     // ---------------- TELEPORT ----------------
     private void OnGoClicked()
     {
-        string city = cityDropdown.options[cityDropdown.value].text;
+        string fullText = cityDropdown.options[cityDropdown.value].text;
+        string city = fullText.Substring(0, fullText.Length - 5);
         int year = Mathf.RoundToInt(yearSlider.value*10);
 
         if (!db.ContainsKey(city) || !db[city].ContainsKey(year))

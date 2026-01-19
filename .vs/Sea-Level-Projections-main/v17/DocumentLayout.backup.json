@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\Assets\\Scripts\\MenuSommoner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MenuSommoner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\Assets\\Scripts\\CityMenuController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CityMenuController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\Assets\\Scripts\\CityLocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CityLocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\Assets\\Scripts\\MenuSommoner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MenuSommoner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\Assets\\Scripts\\CityMover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CityMover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\Assets\\Scripts\\VRUIController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\VRUIController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\Assets\\Scripts\\LocomotionModeSwitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\LocomotionModeSwitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\Assets\\Scripts\\SeaLevelDataManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SeaLevelDataManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\Assets\\Scripts\\VRUIController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\VRUIController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MenuSommoner.cs",
               "DocumentMoniker": "C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\Assets\\Scripts\\MenuSommoner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MenuSommoner.cs",
               "ToolTip": "C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\Assets\\Scripts\\MenuSommoner.cs",
               "RelativeToolTip": "Assets\\Scripts\\MenuSommoner.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T10:39:48.453Z",
               "IsPinned": true,
@@ -48,21 +56,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SeaLevelDataManager.cs",
-              "DocumentMoniker": "C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\Assets\\Scripts\\SeaLevelDataManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SeaLevelDataManager.cs",
-              "ToolTip": "C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\Assets\\Scripts\\SeaLevelDataManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SeaLevelDataManager.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CityLocator.cs",
+              "DocumentMoniker": "C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\Assets\\Scripts\\CityLocator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CityLocator.cs",
+              "ToolTip": "C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\Assets\\Scripts\\CityLocator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CityLocator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T11:35:43.319Z",
-              "IsPinned": true,
+              "WhenOpened": "2026-01-16T14:47:07.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "LocomotionModeSwitcher.cs",
+              "DocumentMoniker": "C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\Assets\\Scripts\\LocomotionModeSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LocomotionModeSwitcher.cs",
+              "ToolTip": "C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\Assets\\Scripts\\LocomotionModeSwitcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LocomotionModeSwitcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:41:20.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CityMenuController.cs",
+              "DocumentMoniker": "C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\Assets\\Scripts\\CityMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CityMenuController.cs",
+              "ToolTip": "C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\Assets\\Scripts\\CityMenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CityMenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:38:30.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "VRUIController.cs",
               "DocumentMoniker": "C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\Assets\\Scripts\\VRUIController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\VRUIController.cs",
@@ -70,12 +103,11 @@
               "RelativeToolTip": "Assets\\Scripts\\VRUIController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T12:40:37.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T12:40:37.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CityMover.cs",
               "DocumentMoniker": "C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\Assets\\Scripts\\CityMover.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CityMover.cs",
@@ -88,15 +120,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CityMenuController.cs",
-              "DocumentMoniker": "C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\Assets\\Scripts\\CityMenuController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CityMenuController.cs",
-              "ToolTip": "C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\Assets\\Scripts\\CityMenuController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CityMenuController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAABiAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "SeaLevelDataManager.cs",
+              "DocumentMoniker": "C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\Assets\\Scripts\\SeaLevelDataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SeaLevelDataManager.cs",
+              "ToolTip": "C:\\Users\\rosha\\OneDrive\\Desktop\\Uni Passau\\Sem 4\\Immersive Analytics\\Exercise\\Sea-Level-Projections-main\\Assets\\Scripts\\SeaLevelDataManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SeaLevelDataManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T10:38:30.41Z",
+              "WhenOpened": "2026-01-16T11:35:43.319Z",
               "EditorCaption": ""
             }
           ]
