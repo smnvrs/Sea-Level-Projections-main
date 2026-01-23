@@ -1,3 +1,5 @@
+
+
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.XR.Interaction.Toolkit.Locomotion.Movement;
@@ -75,7 +77,9 @@ public class LocomotionModeSwitcher : MonoBehaviour
         // Enable 3D movement on the move provider
         if (continuousMoveProvider != null)
         {
-            continuousMoveProvider.enableFly = true;
+            // continuousMoveProvider.enableFly changes the y direction too,
+            // and we want the change in altitude to be handled separately
+            continuousMoveProvider.enableFly = false;
             continuousMoveProvider.moveSpeed = originalMoveSpeed * flyingSpeedMultiplier;
         }
 
