@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "D:\\git\\Sea-Level-Projections-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|D:\\git\\Sea-Level-Projections-main\\assets\\scripts\\menusommoner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menusommoner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|D:\\git\\Sea-Level-Projections-main\\assets\\scripts\\locomotionmodeswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\locomotionmodeswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|D:\\git\\Sea-Level-Projections-main\\assets\\scripts\\citymenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\citymenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|D:\\git\\Sea-Level-Projections-main\\assets\\scripts\\citydatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\citydatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|D:\\git\\Sea-Level-Projections-main\\assets\\scripts\\waterlevelslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\waterlevelslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|D:\\git\\Sea-Level-Projections-main\\assets\\scripts\\scatterplot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scatterplot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|D:\\git\\Sea-Level-Projections-main\\assets\\scripts\\lineplot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lineplot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|D:\\git\\Sea-Level-Projections-main\\assets\\scripts\\topnbarchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\topnbarchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|D:\\git\\Sea-Level-Projections-main\\assets\\scripts\\lineplot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lineplot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|D:\\git\\Sea-Level-Projections-main\\assets\\scripts\\locomotionmodeswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\locomotionmodeswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|D:\\git\\Sea-Level-Projections-main\\assets\\scripts\\scatterplot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scatterplot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|D:\\git\\Sea-Level-Projections-main\\assets\\tutorialinfo\\scripts\\readme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\readme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|D:\\git\\Sea-Level-Projections-main\\assets\\scripts\\citydatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\citydatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|d:\\git\\sea-level-projections-main\\assets\\scripts\\menusommoner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menusommoner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|D:\\git\\Sea-Level-Projections-main\\assets\\scripts\\waterlevelslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245880B2-2DE5-DE0D-4074-44FABC353CC5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\waterlevelslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Readme.cs",
               "DocumentMoniker": "D:\\git\\Sea-Level-Projections-main\\Assets\\TutorialInfo\\Scripts\\Readme.cs",
               "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\Readme.cs",
@@ -58,11 +58,12 @@
               "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\Readme.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T23:27:15.73Z"
+              "WhenOpened": "2026-01-26T23:27:15.73Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "CityDataManager.cs",
               "DocumentMoniker": "D:\\git\\Sea-Level-Projections-main\\Assets\\Scripts\\CityDataManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CityDataManager.cs",
@@ -75,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "MenuSommoner.cs",
               "DocumentMoniker": "D:\\git\\Sea-Level-Projections-main\\Assets\\Scripts\\MenuSommoner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MenuSommoner.cs",
@@ -88,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "WaterLevelSlider.cs",
               "DocumentMoniker": "D:\\git\\Sea-Level-Projections-main\\Assets\\Scripts\\WaterLevelSlider.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WaterLevelSlider.cs",
@@ -96,11 +97,12 @@
               "RelativeToolTip": "Assets\\Scripts\\WaterLevelSlider.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAowDkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T20:07:20.853Z"
+              "WhenOpened": "2026-01-26T20:07:20.853Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "LocomotionModeSwitcher.cs",
               "DocumentMoniker": "D:\\git\\Sea-Level-Projections-main\\Assets\\Scripts\\LocomotionModeSwitcher.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LocomotionModeSwitcher.cs",
@@ -108,7 +110,8 @@
               "RelativeToolTip": "Assets\\Scripts\\LocomotionModeSwitcher.cs",
               "ViewState": "AgIAAFoAAAAAAAAAAAAwwIQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T19:30:19.105Z"
+              "WhenOpened": "2026-01-23T19:30:19.105Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -118,34 +121,36 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\CityMenuController.cs",
               "ToolTip": "D:\\git\\Sea-Level-Projections-main\\Assets\\Scripts\\CityMenuController.cs",
               "RelativeToolTip": "Assets\\Scripts\\CityMenuController.cs",
-              "ViewState": "AgIAAMkAAAAAAAAAAAAcwNEAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAcwNEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-23T18:28:39.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "LinePlot.cs",
               "DocumentMoniker": "D:\\git\\Sea-Level-Projections-main\\Assets\\Scripts\\LinePlot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LinePlot.cs",
               "ToolTip": "D:\\git\\Sea-Level-Projections-main\\Assets\\Scripts\\LinePlot.cs",
               "RelativeToolTip": "Assets\\Scripts\\LinePlot.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T20:49:48.313Z"
+              "WhenOpened": "2026-01-26T20:49:48.313Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "TopNBarChart.cs",
               "DocumentMoniker": "D:\\git\\Sea-Level-Projections-main\\Assets\\Scripts\\TopNBarChart.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TopNBarChart.cs",
               "ToolTip": "D:\\git\\Sea-Level-Projections-main\\Assets\\Scripts\\TopNBarChart.cs",
               "RelativeToolTip": "Assets\\Scripts\\TopNBarChart.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAUwE0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwF0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T23:48:43.507Z"
+              "WhenOpened": "2026-01-26T23:48:43.507Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -155,9 +160,10 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\ScatterPlot.cs",
               "ToolTip": "D:\\git\\Sea-Level-Projections-main\\Assets\\Scripts\\ScatterPlot.cs",
               "RelativeToolTip": "Assets\\Scripts\\ScatterPlot.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCkAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T09:53:05.194Z"
+              "WhenOpened": "2026-01-25T09:53:05.194Z",
+              "EditorCaption": ""
             }
           ]
         }
